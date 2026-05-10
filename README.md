@@ -1,4 +1,4 @@
-## Data Visualization & Analysis System
+## Data Visualization Tool & Analysis System
 
 This project is a high-performance desktop application developed in **Java 21**, designed to streamline the process of analyzing and visualizing complex CSV datasets. By leveraging **JavaFX**, the system provides a responsive environment for converting raw data into actionable graphical insights.
 
